@@ -35,3 +35,7 @@ Open a browser and go to URL
 
     http://<IP>:5000                            => Welcome
     
+
+## Docker File
+
+    All of the above manual steps can be written in Docker file and can run the docker build command
